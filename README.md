@@ -1,4 +1,4 @@
-❤️ Heart Disease Prediction using Machine Learning
+##❤️ Heart Disease Prediction using Machine Learning 
 
 This project uses machine learning models to predict the presence of heart disease based on various patient health attributes. The solution is developed and executed entirely on Google Colab.
 
@@ -24,6 +24,9 @@ This project uses machine learning models to predict the presence of heart disea
 - XGBoost
 
 - Seaborn & Matplotlib
+  
+### 🔗 Open in Colab
+[![Open In Colab](https://colab.research.google.com/drive/1BcKJ7T-ZsJMCVjqNKymiicl0MUEjGcFS?usp=sharing)
 
 ✅ Workflow
 
