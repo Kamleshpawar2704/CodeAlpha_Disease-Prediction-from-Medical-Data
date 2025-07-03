@@ -2,7 +2,7 @@
 
 This project uses machine learning models to predict the presence of heart disease based on various patient health attributes. The solution is developed and executed entirely on Google Colab.
 
-📁 Dataset
+## 📁 Dataset
 - Source: heart .csv
 
 - Attributes:
@@ -11,9 +11,9 @@ This project uses machine learning models to predict the presence of heart disea
 
 -- Target: 0 (No heart disease), 1 (Heart disease)
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-- Python
+-  Python
 
 - Google Colab
 
@@ -28,7 +28,7 @@ This project uses machine learning models to predict the presence of heart disea
 ### 🔗 Open in Colab
 [![Open In Colab](https://colab.research.google.com/drive/1BcKJ7T-ZsJMCVjqNKymiicl0MUEjGcFS?usp=sharing)
 
-✅ Workflow
+## ✅ Workflow
 
 1.Dataset Upload
 
@@ -66,7 +66,7 @@ This project uses machine learning models to predict the presence of heart disea
 
 
 
-📊 Visualizations
+## 📊 Visualizations
 
 - Confusion Matrix (Random Forest)
 
@@ -77,7 +77,7 @@ This project uses machine learning models to predict the presence of heart disea
 - Bar chart comparing model scores
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Use hyperparameter tuning (GridSearchCV)
 
@@ -85,7 +85,7 @@ This project uses machine learning models to predict the presence of heart disea
 
 - Build a web app using Streamlit or Flask
 
-🤝 Acknowledgements
+## 🤝 Acknowledgements
 
 - Dataset from open heart disease datasets on Kaggle
 
